@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Footer() {
   return (
     <div>
@@ -24,10 +22,10 @@ export default function Footer() {
             <rect width="7" height="7" x="14" y="3" rx="1"></rect>
             <path d="M10 21V8a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-5a1 1 0 0 0-1-1H3"></path>
           </svg>
-          <span className="font-bold text-xl">PySpur</span>
+          <span className="font-bold text-xl">Buildo</span>
         </a>
-        <div className="max-w-6xl mx-auto border-t py-2 grid md:grid-cols-2 h-full justify-between w-full grid-cols-1 gap-1">
-          <span className="text-sm tracking-tight text-foreground">
+        <div className="max-w-6xl mx-auto border-t py-2 grid md:grid-cols-2 h-full justify-between w-full grid-cols-1 gap-1 ">
+          <span className="text-sm tracking-tight text-foreground text-left">
             Copyright © 2025 Sevn AI Inc.
           </span>
           <ul className="flex justify-start md:justify-end text-sm tracking-tight text-foreground">

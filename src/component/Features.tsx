@@ -254,7 +254,7 @@ export default function Features() {
                     </div>
                   </div>
                   <div className="w-auto overflow-hidden relative rounded-lg false">
-                    <div className="aspect-auto h-full w-full rounded-xl border border-neutral-300/50 bg-gray-200 p-1 min-h-[600px]">
+                    <div className="aspect-w-16 aspect-h-9 rounded-xl border border-neutral-300/50 bg-gray-200 p-1">
                       <video
                         src="https://assets.sevn.ai/website_assets/blocks.mp4"
                         className="w-full h-full rounded-md"
